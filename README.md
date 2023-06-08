@@ -27,8 +27,7 @@ Main vision :dart: for creating this documents is to get concrete knowledge on s
 | Automation tools| <ol><li>workflow rules</li><li>approval process</li><li>process builder(released from automation tool)</li><li>Flows</li></ol>|
 | Reports and Dashboards|complete understanding on reports and dashboards with example|
 | Salesforce Chatter| Understanding on salesforce chatter, why its important to use.|
-| Salesforce auditing and monitoring tools| <ol><li>Tracking field history for standard objects</li><li>Tracking field history for custom objects</li><li>View setup audit trail in salesforce
-</li></ol>|
+| Salesforce auditing and monitoring tools| <ol><li>Tracking field history for standard objects</li><li>Tracking field history for custom objects</li><li>View setup audit trail in salesforce</li></ol>|
 
 I here by declare that images are referenced from the google search engine, the examples to make understand people was taken by our own we created our respective orgs done with hands on and then giving back our knowledge to salesforce community.
 
