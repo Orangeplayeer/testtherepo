@@ -3,10 +3,9 @@
 
 This repository is useful for anyone who wish to study :book:, start :bicyclist:, or explore :sparkler: a career in the Salesforce ecosystem.
 
-My team and I worked hard to make it simple and accessible for anyone who wants to learn 
-salesforce administration :heart:
+:heart: MyTeam and I worked hard to make it simple and accessible for anyone who wants to learn salesforce administration 
 
-Main vision :dart: for creating this documents is to get concrete knowledge on salesforce admin in a very easy way with easy examples. 
+:dart: Main vision  for creating this documents is to get concrete knowledge on salesforce admin in a very easy way with easy examples. 
 
 :sparkles:**We enjoy collabrative learning and believe in sharing knowledge**:sparkles:
 
