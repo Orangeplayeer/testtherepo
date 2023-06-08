@@ -1,13 +1,16 @@
 # Hello Everyone :wave:
-## Welcome To The Complete Guide and path for Salesforce Admin
+## Welcome To The Complete Guide and Path for Salesforce Admin :innocent:
 
 This repository is useful for anyone who wish to study :book:, start :bicyclist:, or explore :sparkler: a career in the Salesforce ecosystem.
 
-My team and I worked hard to make it simple and accessible for anyone who wants to learn salesforce administration :heart:.
+My team and I worked hard to make it simple and accessible for anyone who wants to learn 
+salesforce administration :heart:
 
-Main vision :dart: for creating this documents is to get concrete knowledge on salesforce admin in a very easy way with easy examples. **We enjoy and believe in sharing knowledge**
+Main vision :dart: for creating this documents is to get concrete knowledge on salesforce admin in a very easy way with easy examples. 
 
-## COURSE INDEX
+:sparkles:**We enjoy collabrative learning and believe in sharing knowledge**:sparkles:
+
+## :paperclip: COURSE INDEX
 
 | Topics | Description |
 | ---             | ---            |
