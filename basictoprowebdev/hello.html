@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello</title>
+</head>
+<body>
+    <header>
+        <pre><h2>AboutMe            Experience     Education     Project</h2></pre>
+        
+    </header>
+    <hr/>
+    <main>
+        <section>
+            Education :schooling :- vivekanand english medium school
+            PUC:- Mahesh PU College
+            Engineering:- K.L.E IT
+        </section>
+        <section>
+            AboutMe : I am sneha pawar, 5x salesforce certified
+        </section>
+        <article>We can write a article in the article tag,like we can write our own story on our portfolio</article>
+        <aside>this tage is to run adds, as on our website we see some adds </aside>
+        <a href="https://www.google.com/" target="_main">Google</a> <br/>
+        <!--target attribute in anchor tag is used to open the link in next tab-->
+        <pre>
+        <a href="https://www.google.com/" target="_main"><img src="/basictoprowebdev/googlepic.jpg" alt="Google" height="50"/></a><br/>
+        </pre>
+        <div>
+            <p>we are writing a about div tag :-its like a container which takes full width</p>
+            <p>takes a full width like footer, header, article,hr</p>
+        </div>
+        <span>
+            <p>span tag will take width as per size, it will not take complete width like div, header nd footer</p>
+        </span>
+        <!-- unordered lists will be in bullet points and ordered list will be listed in numbers, roman numbers or alphabets -->
+        <ul>
+            <li>apple</li>
+            <ul>
+                <li>apple color: is red</li>
+                <li>In this way we can make a sublist</li>
+            </ul>
+            <li>mango</li>
+            <li>orange</li>
+        </ul>
+        <ol>
+            <li>sneha</li>
+            <li>sanjana</li>
+            <li>sonu</li>
+        </ol>
+        <hr/><!--table concept-->
+        <table>
+            <caption>Student Data</caption>
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>RollNo</th>
+                <th>Class</th>
+                <th>School</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>sneha</td>
+                <td>2097784</td>
+                <td>10</td>
+                <td>Vivekanad school</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <thead>
+                <tr>
+                <th colspan="3"> <!--colspan will put the heading "Information" in the center above the sneha pawar 2097784-->
+                    <!--its used to merge rows header-->
+                    Information
+                </th>
+                </tr>
+                
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Sneha</td>
+                    <td>Pawar</td>
+                    <td>2097784</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </main>
+    
+    <footer>
+        <hr/>
+        <h3>Registration  Form </h3>
+        <!--Learning about form-->
+    <form action="/action.php"><!--action attribute inside form tells about the entered data should store in which page, here comes backend-->
+        <input type="text" placeholder="username" />
+        <br></br>
+        <input type="password" placeholder="password"/>
+       
+
+        <p><h3>Select your class</h3></p>
+        
+        <label for="101">
+        <input type="radio" value="class XI" name="class" id="101">class XI
+        </label>
+        <label for="102">
+        <input type="radio" value="class XII" name="class" id="102">class XII
+        </label><br/>
+
+        <p><h3> Select your subjects</h3></p>
+        <label for="math">
+            <input type="checkbox" value="math" name="subject" id="101">Math
+        </label><br/>
+        <label for="physics">
+            <input type="checkbox" value="physics" name="subject" id="101">physics
+        </label><br/>
+        <label for="chemistry">
+            <input type="checkbox" value="chemistry" name="subject" id="101">chemistry
+        </label>
+       <br></br>
+        <p><h3>Select your fav city</h3></p>
+        <!--select tag is used to show the drop down menu-->
+        <select name="city" id="101">
+            <option value="delhi">Delhi</option>
+            <option value="hubli">Hubli</option>
+            <option value="hyderbad">Hyderbad</option>
+        </select>
+        <br></br>
+        <p><h3>Give us a valuable feedback</h3></p>
+        <textarea name="feedback" id="104" placeholder="please give your valuable feedback here!!" rows="5">Feedback</textarea>
+        <br></br>
+        <input type="submit" value="submit">
+    
+        
+    </form>
+
+    </footer>
+    
+
+
+
+</body>
+</html>
